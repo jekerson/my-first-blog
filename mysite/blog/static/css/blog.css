@@ -1,0 +1,37 @@
+
+@import url('https://fonts.googleapis.com/css?family=Lobster');
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+  }
+    .page-header {
+    background-color: orange;
+    padding: 10px;
+  }
+  
+  .page-header h1 {
+    margin: 0;
+    color: #ffffff;
+  }
+  .post {
+    margin-top: 20px;
+    border: 1px solid #ccc;
+    padding: 10px;
+  }
+  
+  .post p {
+    margin-bottom: 10px;
+  }
+  
+  .post h2 {
+    margin-top: 0;
+  }
+
+  .author-name {
+    font-style: italic;
+    color: #888;
+  }
+  h1, h2, h3, h4 {
+    font-family: 'Lobster', cursive;
+}
